@@ -14,14 +14,14 @@ class MealsScreen extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         children: [
           Text(
-            "...Nothing here :( ",
+            "...Nothing here! :( ",
             style: Theme.of(context).textTheme.headlineLarge!.copyWith(
                   color: Theme.of(context).colorScheme.onSurface,
                 ),
           ),
           const SizedBox(height: 20),
           Text(
-            "Try selecting different category..",
+            "Try selecting different category!",
             style: Theme.of(context).textTheme.bodyLarge!.copyWith(
                   color: Theme.of(context).colorScheme.onSurface,
                 ),
@@ -30,8 +30,8 @@ class MealsScreen extends StatelessWidget {
       ),
     );
 
-    if (meals.isEmpty) {
-      ListView.builder(
+    if (meals.isNotEmpty) {
+      content = ListView.builder(
         itemCount: meals.length,
         itemBuilder: (ctx, index) => Text(meals[index].title),
       );
