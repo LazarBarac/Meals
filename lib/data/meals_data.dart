@@ -110,9 +110,9 @@ const meals = [
       'Butter'
     ],
     steps: [
-      'Butter one side of the white bread',
-      'Layer ham, the pineapple and cheese on the white bread',
-      'Bake the toast for round about 10 minutes in the oven at 200°C'
+      'Butter one side of the white bread.',
+      'Layer ham, the pineapple and cheese on the white bread.',
+      'Bake the toast for round about 10 minutes in the oven at 200°C.'
     ],
     isGlutenFree: false,
     isVegan: false,
@@ -140,11 +140,11 @@ const meals = [
       '2 Burger Buns'
     ],
     steps: [
-      'Form 2 patties',
-      'Fry the patties for c. 4 minutes on each side',
-      'Quickly fry the buns for c. 1 minute on each side',
-      'Bruch buns with ketchup',
-      'Serve burger with tomato, cucumber and onion'
+      'Form 2 patties.',
+      'Fry the patties for c. 4 minutes on each side.',
+      'Quickly fry the buns for c. 1 minute on each side.',
+      'Bruch buns with ketchup.',
+      'Serve burger with tomato, cucumber and onion.'
     ],
     isGlutenFree: false,
     isVegan: false,
@@ -211,11 +211,11 @@ const meals = [
       'Salt and Pepper'
     ],
     steps: [
-      'Wash and cut salad and herbs',
-      'Dice the salmon',
-      'Process mustard, vinegar and olive oil into a dessing',
-      'Prepare the salad',
-      'Add salmon cubes and dressing'
+      'Wash and cut salad and herbs.',
+      'Dice the salmon.',
+      'Process mustard, vinegar and olive oil into a dessing.',
+      'Prepare the salad.',
+      'Add salmon cubes and dressing.'
     ],
     isGlutenFree: true,
     isVegan: false,
@@ -243,15 +243,15 @@ const meals = [
       'Orange Peel',
     ],
     steps: [
-      'Dissolve gelatine in pot',
-      'Add orange juice and sugar',
-      'Take pot off the stove',
-      'Add 2 tablespoons of yoghurt',
-      'Stir gelatin under remaining yoghurt',
-      'Cool everything down in the refrigerator',
-      'Whip the cream and lift it under die orange mass',
-      'Cool down again for at least 4 hours',
-      'Serve with orange peel',
+      'Dissolve gelatine in pot.',
+      'Add orange juice and sugar.',
+      'Take pot off the stove.',
+      'Add 2 tablespoons of yoghurt.',
+      'Stir gelatin under remaining yoghurt.',
+      'Cool everything down in the refrigerator.',
+      'Whip the cream and lift it under die orange mass.',
+      'Cool down again for at least 4 hours.',
+      'Serve with orange peel.',
     ],
     isGlutenFree: true,
     isVegan: false,
@@ -310,12 +310,12 @@ const meals = [
       '500ml Coconut Milk',
     ],
     steps: [
-      'Slice and fry the chicken breast',
-      'Process onion, garlic and ginger into paste and sauté everything',
-      'Add spices and stir fry',
-      'Add chicken breast + 250ml of water and cook everything for 10 minutes',
-      'Add coconut milk',
-      'Serve with rice'
+      'Slice and fry the chicken breast.',
+      'Process onion, garlic and ginger into paste and sauté everything.',
+      'Add spices and stir fry.',
+      'Add chicken breast + 250ml of water and cook everything for 10 minutes.',
+      'Add coconut milk.',
+      'Serve with rice.'
     ],
     isGlutenFree: true,
     isVegan: false,
@@ -392,13 +392,13 @@ const meals = [
       'Salt, Pepper and Olive Oil'
     ],
     steps: [
-      'Wash, peel and cut the asparagus',
-      'Cook in salted water',
-      'Salt and pepper the asparagus',
-      'Roast the pine nuts',
-      'Halve the tomatoes',
-      'Mix with asparagus, salad and dressing',
-      'Serve with Baguette'
+      'Wash, peel and cut the asparagus.',
+      'Cook in salted water.',
+      'Salt and pepper the asparagus.',
+      'Roast the pine nuts.',
+      'Halve the tomatoes.',
+      'Mix with asparagus, salad and dressing.',
+      'Serve with Baguette.'
     ],
     isGlutenFree: true,
     isVegan: true,

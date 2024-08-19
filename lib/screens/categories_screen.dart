@@ -49,19 +49,3 @@ class CategoriesScreen extends StatelessWidget {
     );
   }
 }
-
-// class CategoriesScreen extends StatefulWidget {
-//   const CategoriesScreen({super.key});
-
-//   @override
-//   State<CategoriesScreen> createState() {
-//     return _CategoriesScreenState();
-//   }
-// }
-
-// class _CategoriesScreenState extends State<CategoriesScreen> {
-//   @override
-//   Widget build(context) {
-//     return Text("data");
-//   }
-// }
